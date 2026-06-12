@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip":"2c2t.play.hosting",
+    "ip": "2c2t.play.hosting",
     "port": 54371,
-    "version": "",
+    "version": "1.18.2",
     "try-creative": false
   },
   "position": {
